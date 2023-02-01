@@ -16,11 +16,11 @@
       "inbound": true,
       "rows": [
         {
-          "published": false,
+          "published": true,
           "id": "qpYsoN8UrWifFPjhRrVkHW",
-          "title": "",
-          "slug": "",
-          "contentPath": "/projects/cGXAUW6FkG8tNyowP2kLv2/content/blog/qpYsoN8UrWifFPjhRrVkHW-.md",
+          "title": "bobber",
+          "slug": "bobber",
+          "contentPath": "/projects/cGXAUW6FkG8tNyowP2kLv2/content/blog/qpYsoN8UrWifFPjhRrVkHW-bobber.md",
           "hasChanged": true
         }
       ]
